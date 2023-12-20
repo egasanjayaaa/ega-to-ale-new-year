@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=Sacramento&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,600&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&family=Sacramento&display=swap");
+
+h1 {
+  font-size: 3rem;
+  font-weight: normal;
+  font-family: "Sacramento", cursive;
+}
+
+img {
+  height: 25%;
+  width: 25%;
+}
+
+p {
+  font-style: italic;
+  font-weight: 550;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  background-image: url(https://i.pinimg.com/originals/7b/44/e8/7b44e8a0be6fb1a0c4ce3647f6d43f68.jpg);
+  height: 100%;
+}
+
+#container {
+  width: 100%;
+  margin: auto;
+  padding: 1em;
+  background-color: cadetblue;
+  min-height: 200px;
+}
+
+#image {
+  height: 500px;
+}
